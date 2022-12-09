@@ -1,0 +1,38 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myimg{
+    width: 50% !important;
+    border: 5px black solid !important;
+}
+
+.myitalics{
+    font-style: italic;
+}
+.myresume{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.resimg{
+    border: 5px black solid !important;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.myheader{
+    text-decoration: underline ;
+
+}
